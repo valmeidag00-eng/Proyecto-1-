@@ -26,7 +26,7 @@ Aprender los fundamentos de calidad de software y QA mediante diseño de checkli
 
 ## Estructura del proyecto
 
-- 'docs/' → Contiene el archivo Proyecto1.xlsx
+- → Contiene el archivo Proyecto1.xlsx
 
 ---
 
