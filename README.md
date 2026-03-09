@@ -33,4 +33,4 @@ Aprender los fundamentos de calidad de software y QA mediante diseño de checkli
 ## Cómo usar
 1. Clonar el repositorio
 2. Abrir el Excel en 'docs'
-3. Revisar y aplicar los checklists para pruebas manuales en apps web simples
+3. Revisar y aplicar los checklists para pruebas manuales en apps web 
